@@ -1,0 +1,12 @@
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop management system.vbproj.AssemblyReference.cache
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop management system.vbproj.SuggestedBindingRedirects.cache
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.adminlogin.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.Bills.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.Bookusers.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.dashboard.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.Form1.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.Login.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.Resources.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop_management_system.users.resources
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop management system.vbproj.GenerateResource.cache
+C:\Users\97798\source\repos\Bookshop management system\obj\Debug\Bookshop management system.vbproj.CoreCompileInputs.cache
